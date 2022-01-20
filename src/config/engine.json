@@ -1,0 +1,11 @@
+{
+  "engineName": "moasoft",
+  "endpointBase": "https://moasoft.ent.eu-west-1.aws.found.io",
+  "searchKey": "search-s26s8jfrkkq7nkzsxpfpxpon",
+  "resultFields": ["site", "review", "title", "poster", "id"],
+  "sortFields": [],
+  "facets": [],
+  "titleField": "title",
+  "urlField": "site",
+  "thumbnailField": "poster"
+}
