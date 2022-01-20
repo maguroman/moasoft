@@ -1,2 +1,0 @@
-# moasoft
-Created with CodeSandbox
